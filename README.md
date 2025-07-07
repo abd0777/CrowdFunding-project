@@ -28,9 +28,6 @@ The **Crowdfunding Management System (CFMS)** is a comprehensive platform that s
 - MySQL Database setup
 - MetaMask installed for testing blockchain integration
 
-### Steps:
+##HOME-PAGE
+![Image](https://github.com/user-attachments/assets/46d02272-ba64-42bc-8600-2e008f33376a)
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/crowdfunding-management-system.git
-   cd crowdfunding-management-system
